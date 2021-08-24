@@ -1,0 +1,5 @@
+files/*
+!files/.gitkeep
+
+originals/*
+!originals/.gitkeep
